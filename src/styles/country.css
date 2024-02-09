@@ -1,0 +1,21 @@
+.box-country {
+    margin: 2rem 0;
+}
+
+.box-country h1 {
+    text-align: center;
+    padding-bottom: 1rem;
+}
+
+.img-div {
+    margin: auto;
+    width: 90%;
+}
+
+.img-div img {
+    width: 100%;
+}
+
+.country-article {
+    padding: 15px;
+}
